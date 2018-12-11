@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "start": "npm run serve",
+        "serve": "node ./bin/main.js"
+    },
+    "dependencies": {
+        "express": "^4.16.4"
+    }
+}
